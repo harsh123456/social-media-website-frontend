@@ -22,7 +22,7 @@ Installation:
 
 Change the Auth id in "Auth.js" 
 <p float="left">
-  <img src="Images/api"/>
+  <img src="Images/api.JPG"/>
 </p>
 
 To Run Test Suite:  
