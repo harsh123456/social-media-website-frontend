@@ -20,9 +20,9 @@ Installation:
 
 `npm install`  
 
-Change the firebase keys in "firebase.utils.js" 
+Change the Auth id in "Auth.js" 
 <p float="left">
-  <img src="Images/firebase.JPG"/>
+  <img src="Images/api"/>
 </p>
 
 To Run Test Suite:  
